@@ -63,7 +63,7 @@ class HomePage extends StatelessWidget {
                               ),
                             ),
                             Text(
-                              "VITAL",
+                              "Comio",
                               style: GoogleFonts.aBeeZee(
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold,

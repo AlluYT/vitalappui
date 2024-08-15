@@ -1,7 +1,1 @@
-# vitalappui
-
-A new Flutter project.
-
-## Getting Started
-
-![Uploading image.png…]()
+![Alt text](https://your-image-url.png)
